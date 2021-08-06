@@ -1,0 +1,56 @@
+.cardlist__movies{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+.shoppies{
+    background-color: black;
+    align-items: center;
+
+}
+.cards{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.movie__image{
+    height: 500px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+.flex__card{
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    color: white;
+}
+
+.heading{
+    font-size: 17px;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.name{
+    padding: 10px;
+}
+.paragraph{
+    color: #3da4ab;   
+}
+.paragraph2{
+    color: orange;
+}
